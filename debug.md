@@ -1,1 +1,1 @@
-{"content": "IyBEZWJ1ZyBGaWxlCgpUZXN0aW5nIGNyZWF0ZV9vcl91cGRhdGVfZmlsZSBwYXJhbWV0ZXJz", "encoding": "base64"}
+{"encoding": "base64", "content": "IyBEZWJ1ZyBGaWxlCgpUZXN0aW5nIGNyZWF0ZV9vcl91cGRhdGVfZmlsZSBwYXJhbWV0ZXJz"}
