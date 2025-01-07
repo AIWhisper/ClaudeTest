@@ -1,1 +1,14 @@
-IyBDbGF1ZGVUZXN0IFJlcG9zaXRvcnkNCg0KRXhwZXJpbWVudGFsIHJlcG9zaXRvcnkgZm9yIHRlc3RpbmcgR2l0SHViIGFuZCBBSSBpbnRlZ3JhdGlvbiB3b3JrZmxvd3MuDQoNCiMjIFB1cnBvc2UNCi0gVmFsaWRhdGUgR2l0SHViIEFQSSBpbnRlcmFjdGlvbnMNCi0gVGVzdCBmaWxlIGNyZWF0aW9uIGFuZCBwdXNoaW5nDQotIEV4cGxvcmUgaW50ZWdyYXRpb24gY2FwYWJpbGl0aWVz
+# ClaudeTest Repository
+
+Experimental repository for testing GitHub and AI integration workflows.
+
+## Purpose
+- Validate GitHub API interactions
+- Test file creation and pushing
+- Explore integration capabilities
+- Document troubleshooting steps
+
+## Current Status
+- Investigating API interaction errors (MCP 32603)
+- Testing file creation workflows
+- Validating authentication configuration
